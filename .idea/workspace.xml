@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e9a4199-0477-4264-a028-b8cf589ef641" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Root/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Root/Root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/atoms/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/theme/mainTheme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/theme/mainTheme.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +32,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sebas\Desktop\fav-note\src\assets\icons" />
+      <recent name="C:\Users\sebas\Desktop\fav-note\src\assets" />
+      <recent name="C:\Users\sebas\Desktop\fav-note\src" />
       <recent name="C:\Users\sebas\Desktop\fav-note\src\components\atoms" />
       <recent name="C:\Users\sebas\Desktop\fav-note\src\views\Root" />
     </key>
@@ -73,8 +74,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.storybook" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.storybook" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573990065712</updated>
       <workItem from="1573990069357" duration="4507000" />
-      <workItem from="1574001983019" duration="8852000" />
+      <workItem from="1574001983019" duration="20612000" />
     </task>
     <servers />
   </component>
