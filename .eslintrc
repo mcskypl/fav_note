@@ -1,5 +1,9 @@
 {
   "extends": ["react-app", "airbnb"],
+  "parser": "babel-eslint",
+  "env": {
+    "jest": true
+  },
   "rules": {
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "import/no-extraneous-dependencies": 0,
