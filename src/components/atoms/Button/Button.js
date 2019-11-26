@@ -1,7 +1,7 @@
 import styled, { css } from 'styled-components';
 
 const Button = styled.button`
-  background-color: ${({ theme }) => theme.note};
+  background-color: ${({ activeColor, theme }) => theme[activeColor]};
   border: 0; 
   width: 220px;
   height: 47px;
