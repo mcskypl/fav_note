@@ -7,14 +7,13 @@
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/atoms/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/molecules/Card/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Card/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/organisms/NewItemBar/NewItemBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/NewItemBar/NewItemBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/organisms/Sidebar/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/Sidebar/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/DetailsTemplate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/DetailsTemplate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/GridTemplate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/GridTemplate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/MainTemplate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/MainTemplate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/UserPageTemplate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/UserPageTemplate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Articles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Articles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/DetailsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/DetailsPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Notes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Root.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Twitters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Twitters.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573990065712</updated>
       <workItem from="1573990069357" duration="4507000" />
-      <workItem from="1574001983019" duration="55373000" />
+      <workItem from="1574001983019" duration="58958000" />
     </task>
     <servers />
   </component>
